@@ -3,8 +3,11 @@
 <br>
 # Tecnologias
 HTML
+<br>
 CSS
+<br>
 JAVASCRIT
+<br>
 ScrolReveal
 # Conclusão
 Nesse projeto fiz no curso mas a adicionei animação na hora do scrol e para fazer essa animação usei a API ScrolReveal
